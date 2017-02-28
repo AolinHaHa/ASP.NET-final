@@ -1,4 +1,4 @@
-# final
+# ASP.NET final project
 
 The website(team seeker) contains two type of users including people who wants to find team member(leader) and people who wants to find a team to work with(seeker). The peoject that leader posted could be anything as small as moving a house as big as building an UFO.
 
